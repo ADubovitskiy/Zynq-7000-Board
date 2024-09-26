@@ -1,6 +1,6 @@
 # Zynq-7000-Board
 
-![Alt text](Galery/ZettBrett-F_Cu.png?raw=true "Front Cu")
+![Alt text](Galery/Front.png?raw=true "Front Cu")
 
 
 ## Brief Overview
