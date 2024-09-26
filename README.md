@@ -2,6 +2,7 @@
 
 ![Alt text](Galery/Front.png?raw=true "Front")
 
+![Alt text](Galery/Back.png?raw=true "Back")
 
 ## Brief Overview
 My version of the "ZettBrett" board, designed as a part of the Advanced Digital Electronics Certification.
