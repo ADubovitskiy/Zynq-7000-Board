@@ -1,7 +1,7 @@
 # Zynq-7000-Board
 
 ![Alt text](Galery/L1.png?raw=true "Layer 1")
-
+![Alt text](Galery/Front.png?raw=true "Front")
 ![Alt text](Galery/Back.png?raw=true "Back")
 
 ## Brief Overview
